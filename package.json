@@ -1,0 +1,16 @@
+{
+  "name": "swapi",
+  "version": "1.0.0",
+  "description": "SWAPI wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swapi",
+    "rn",
+    "wrapper"
+  ],
+  "author": "Ivan Syniuk",
+  "license": "ISC"
+}
