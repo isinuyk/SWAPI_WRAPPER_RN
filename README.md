@@ -43,6 +43,7 @@ const ResourceList = () => {
   );
 };
 ```
+### Please note. There is an example of using this module with real React Native app. You can find it at the *root/SWAPI_EXAMPLE.*
 
 ### **To be Done:**
 - *Create wrapper for screens;*
