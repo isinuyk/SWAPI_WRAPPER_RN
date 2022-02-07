@@ -1,4 +1,4 @@
-var swapiModule = (function () {
+const swapiModule = (function () {
   var rootURL = 'https://swapi.dev/api/';
 
   const request = (url, cb) => {
